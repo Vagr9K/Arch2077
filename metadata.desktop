@@ -1,0 +1,21 @@
+[Desktop Entry]
+Comment=Arch2077
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Arch2077
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Ruben Harutyunyan
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=harutyunyan.ruben@gmail.com
+X-KDE-PluginInfo-License=GNU GPL v3
+X-KDE-PluginInfo-Name=arch2077
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-Plasma-MainScript=defaults
+X-KPackage-Dependencies=
