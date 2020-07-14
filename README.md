@@ -2,6 +2,8 @@
 
 A futuristic Plasma splashcreen for Arch Linux.
 
+![Preview](./contents/previews/splash.png)
+
 Based on [Arch Space by Yanek Yuk](https://store.kde.org/p/1222244/).
 
 ## Installation
