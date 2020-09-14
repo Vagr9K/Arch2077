@@ -1,14 +1,14 @@
 [kdeglobals][KDE]
-widgetStyle=breeze
+widgetStyle=Sweet
 
 [kdeglobals][General]
-ColorScheme=Numix
+ColorScheme=candy-icons
 
 [kdeglobals][Icons]
-Theme=Numix-Circle
+Theme=Sweet
 
 [plasmarc][Theme]
-name=org.numixproject.kde
+name=Sweet
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
